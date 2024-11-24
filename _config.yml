@@ -24,7 +24,7 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Bud Schiphorst"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Capital Modeller and PhD Candidate"
   location         : "Amsterdam"
   employer         : "Rabobank & University of Amsterdam"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : bschiphorst # Username
+  linkedin         : "bbschiphorst" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
