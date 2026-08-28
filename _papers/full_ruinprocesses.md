@@ -2,7 +2,7 @@
 title: "Ruin probabilities in networks of connected spectrally negative Levy processes"
 collection: papers
 category: manuscripts
-permalink: /paper/2015-10-01-paper-title-number-3
+permalink: /paper/ruin_processes_with_contagion
 excerpt: ' '
 keywords: "ruin probability, excursion theory, Cramér-Lundberg model"
 Abstract: 'This paper is currently still in the process of being written. 
